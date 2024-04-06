@@ -12,7 +12,7 @@ Our goal is to bring the simplicity of Discord, and merge it with the self-hoste
 + And, of course, open-source!
 
 ## Server architecture
-The vision for the app is to be able to have multiple official hosts to which people can create their own servers, plus allow users to host their own servers on their own hardware if they prefere doing so.
+The vision for the app is to be able to have multiple official hosts to which people can create their own servers, plus allow users to host their own servers on their own hardware if they prefer doing so.
 
 ## Repositories overview
 + echo-client: Everything client-side, basically Electron and the actual app
