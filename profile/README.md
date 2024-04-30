@@ -17,6 +17,7 @@ The vision for the app is to be able to have multiple official hosts to which pe
 ## Repositories overview
 + echo-client: Everything client-side, basically Electron and the actual app
 + echo-server: Handles all the intra-client communications, also acts as a Mediasoup server
+  - About to be deprecated
 + echo-api: Handles all client and server specific data, hosted on echo.kuricki.com/api
 + echo-website: Landing page for the project, hosted on echo.kuricki.com
 + echo-status-page: Code to handle a uptime status page (WIP)
